@@ -1,4 +1,1 @@
-<?php
-$total = 10 + 20 / 4;
-echo $total;
-?>
+ESTE É UM TESTE DE GIT
