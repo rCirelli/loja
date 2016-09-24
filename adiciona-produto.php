@@ -1,5 +1,5 @@
-<?php include("cabecalho.php");
-
+<?php include("cabecalho.php"); ?>
+<?php
   $nome = $_GET["nome"];
   $preco = $_GET["preco"];
 
@@ -15,4 +15,5 @@ if(mysqli_query($conexao, $query)) {
 <p class="alert-danger">Produto <?= $nome; ?> não foi adicionado.</p>
 <?php
 }
-include("rodape.php") ?>
+?>
+<?php include("rodape.php") ?>
