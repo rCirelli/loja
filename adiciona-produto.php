@@ -16,4 +16,5 @@ if(mysqli_query($conexao, $query)) {
 <?php
 }
 ?>
+
 <?php include("rodape.php"); ?>
