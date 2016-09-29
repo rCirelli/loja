@@ -20,7 +20,7 @@
                 <li><a href="sobre.php">Sobre</a></li>
               </ul>
             </div>
-      </div><!-- Container acaba aqui -->
+      </div>
     </div>
     <div class="container">
 
