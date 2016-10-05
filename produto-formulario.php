@@ -12,7 +12,7 @@
             </tr>
             <tr>
               <td>Descrição</td>
-              <td><textarea class="form-control" name="descrição"></textarea></td>
+              <td><textarea class="form-control" name="descricao"></textarea></td>
             </tr>
             <tr>
               <td><input class="btn btn-primary" type="submit" value="Cadastrar"></td>

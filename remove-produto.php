@@ -8,4 +8,3 @@ removeProduto($conexao, $id);
 header("Location: produto-lista.php?removido=true");
 die();
 ?>
-<?php include("rodape.php"); ?>
