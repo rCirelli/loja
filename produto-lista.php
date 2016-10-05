@@ -21,7 +21,7 @@ if(array_key_exists("removido", $_POST) && $_POST["removido"]=="true"){
       <td><?=$produto['preco'] ?></td>
       <td><?= substr($produto['descricao'], 0, 40) ?></td>
       <td>
-        <form action="remove-produto.php?id=<?=$produto['id']?>">
+        <form action="remove-produto.php?id=<?=$produto['id']?>" method="post">
         <button  class="btn btn-danger">remover</button>
       </td>
     </tr>
