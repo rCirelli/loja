@@ -10,7 +10,6 @@ include("banco-produto.php");
 <?php
     }
 ?>
-//teste
 
 <table class="table table-striped table-bordered">
 
